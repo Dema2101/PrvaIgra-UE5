@@ -1,4 +1,4 @@
-# Built products
+# Built produkti
 Binaries/
 DerivedDataCache/
 Intermediate/
@@ -6,11 +6,11 @@ Saved/
 DerivedDataCache/
 *.pdb
 
-# Generated folders
+# Generirani folderi
 Build/
 Script/
 
-# System files
+# Sistem fajlovi
 .DS_Store
 Thumbs.db
 
@@ -18,7 +18,7 @@ Thumbs.db
 .vscode/
 .vs/
 
-# Unreal temporary files
+# Unreal temp fajlovi
 *.sln
 *.opensdf
 *.sdf
